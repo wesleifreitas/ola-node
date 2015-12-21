@@ -1,0 +1,15 @@
+{
+  "name": "ola-node",
+  "version": "0.0.0",
+  "description": "Estudo - Node.js",
+  "main": "ola-node.js",
+  "dependencies": {
+    "express": "~4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weslei Freitas",
+  "license": "MIT"
+}
